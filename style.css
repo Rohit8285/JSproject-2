@@ -2,13 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Marck+Script&family=Merriweather&display=swap');
 
 body{
-/*     background-color: #f9f9f9; */
+    background-color: #f9f9f9;
     text-transform: capitalize;
     line-height: 1.6;
     margin: 0;
     padding: 0;
     font-family: 'Marck Script', cursive;
-    background-color: linear-gradient(to left bottom, #7bf4f9, #7cdfff, #b8c2ff, #eba2dc, #f68e98);
+/*     background-color: linear-gradient(to left bottom, #7bf4f9, #7cdfff, #b8c2ff, #eba2dc, #f68e98); */
 }
 
 h1{
