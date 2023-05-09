@@ -9,6 +9,7 @@ body{
     padding: 0;
     font-family: 'Marck Script', cursive;
     background-color: rgb(251, 238, 218);
+    background-image: linear-gradient(to left bottom, #7bf4f9, #7cdfff, #b8c2ff, #eba2dc, #f68e98);
 }
 
 h1{
